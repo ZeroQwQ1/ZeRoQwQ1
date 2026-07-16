@@ -8,12 +8,17 @@
 <br/>  
 
 
-##
+## Status
 <div align="center">
   
 ![discord status](https://discord-readme-badge.vercel.app/api?id=823943375702196285)
+
 </div>  
-  
+
+
+ ##
+[![my Discord badge](https://dcbadge.limes.pink/api/shield/823943375702196285?theme=discord-inverted)](https://github.com/limesdotpink/dcbadge)
+<br /> 
 
 <br/>  
 
@@ -50,12 +55,11 @@
 </a>
 <a href="https://www.youtube.com/@zeroqwq7569" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a> 
-<a href="https://discord.com/users/zeroqwq" target="_blank">
-<img src=https://camo.githubusercontent.com/2deeb38856336d8a80b61d38db0dd7fc337ae5ea93003b8f062f8774d785037a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d796f75725f6e69636b6e616d652d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465 alt=discord style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://www.youtube.com/@zeroqwq7569" target="_blank">
+<img src=https://dcbadge.limes.pink/api/shield/823943375702196285?compact=true alt=youtube style="margin-bottom: 5px;" />
+</a>
 </div>  
-
 
 
 ## И зачем вы смотрите мой профиль?  
