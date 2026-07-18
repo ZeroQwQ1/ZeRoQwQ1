@@ -1,10 +1,5 @@
-###
-<div align="center">
+###### <div align="center">[ZeRo QwQ](https://github.com/ZeroQwQ1)</div><div align="center">
 <img src="https://cdn.discordapp.com/attachments/825450121004974160/1528060998379110600/zero_BannerX400.png?ex=6a5ced34&is=6a5b9bb4&hm=2ecdedad7cd4bc9160e9c688f6fdf7ac6b442ba99190882bbbf371148c9a5219&" align="center" style="width: 100%" />
-<br/>
-
-
-### <div align="center">[ZeRo QwQ](https://github.com/ZeroQwQ1)</div>  
 <br/>  
 
 
